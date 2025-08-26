@@ -1,2 +1,2 @@
 # biolink-Malfarizi
-web
+biolink
